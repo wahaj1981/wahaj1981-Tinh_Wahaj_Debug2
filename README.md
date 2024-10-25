@@ -1,5 +1,7 @@
 # wahaj1981-Tinh_Wahaj_Debug2
 
+# Debug2 Python code needs to be fixed.
+
 def lone_sum(a, b, c):
 if a >= b:
 return c
